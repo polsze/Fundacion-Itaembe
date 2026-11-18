@@ -1,62 +1,67 @@
-Fundación Itaembé
 
-Sitio web institucional desarrollado para la Fundación Itaembé, organización sin fines de lucro de Posadas, Misiones, dedicada a promover la educación, el deporte, la ciencia, la tecnología y la innovación como herramientas de desarrollo comunitario.
+# Fundación Itaembé — Institutional Website
 
-Tecnologías utilizadas
-React + Vite
-Tailwind CSS
-React Router DOM
-React Helmet Async
-Web3Forms
-Hostinger
-Características implementadas
-SEO Avanzado
-Meta Title y Meta Description optimizados.
-Keywords específicas para Posadas y Misiones.
-Etiquetas Open Graph para redes sociales.
-Etiquetas Twitter Card.
-Canonical URLs.
-Datos estructurados Schema.org (NGO).
-Sitemap XML.
-Robots.txt.
-Página 404 personalizada.
-Favicons multiplataforma.
-Web Manifest para dispositivos móviles.
-Optimización de Navegación
-Sistema de rutas con React Router.
-Scroll automático al inicio en cambios de página.
-Navegación entre secciones mediante HashLink.
-Corrección de comportamiento de navegación entre páginas y formularios.
-Formularios de Contacto
-Integración con Web3Forms.
-Envío de consultas sin backend propio.
-Protección anti-spam.
-Redirección automática tras envío exitoso.
-Notificación de consulta enviada correctamente.
-Correo Institucional
+Institutional website developed for **Fundación Itaembé**, a non-profit organization based in Posadas, Misiones, Argentina, promoting education, sports, science, technology, and innovation as tools for community development.
 
-Implementación de correo corporativo:
+🌐 **Live Website:** https://fundacionitaembe.org/
 
-contacto@fundacionitaembe.org
+## 📌 About the Project
 
-Configuración para centralizar la recepción de consultas desde el sitio web.
-Integración con Gmail para facilitar la gestión de mensajes sin necesidad de acceder al panel de Hostinger.
-Secciones Institucionales
-Inicio institucional.
-Fundación Itaembé.
-Yaguaretés Softbol Posadas.
-Ciencia, Tecnología e Innovación.
-Formulario de contacto.
-Página de error 404.
-Optimización de Recursos
-Imágenes en formato WebP.
-Favicons optimizados.
-Mejoras de rendimiento y carga.
-Estructura preparada para indexación en Google.
-Dominio
+A modern institutional website designed to communicate the foundation's mission, showcase its initiatives, and strengthen its digital presence.
 
-🌐 https://fundacionitaembe.org
+The platform brings together information about its educational, sports, scientific, and technological projects, providing visitors with an accessible way to learn about the organization and get in touch.
 
-Objetivo
+## 🚀 Main Features
 
-Brindar una presencia digital moderna para la Fundación Itaembé, fortaleciendo la difusión de sus proyectos educativos, deportivos, científicos y tecnológicos en Posadas y la provincia de Misiones.
+- Responsive interface optimized for multiple devices.
+- Multi-page navigation using React Router DOM.
+- Advanced SEO implementation and metadata optimization.
+- Open Graph and Twitter Card integration.
+- Schema.org structured data for non-profit organizations.
+- XML sitemap and robots.txt configuration.
+- Contact forms integrated with Web3Forms.
+- Spam protection and submission feedback.
+- Custom 404 error page.
+- Optimized WebP images and performance improvements.
+- Mobile-friendly icons and Web App Manifest.
+
+## 🏛️ Main Sections
+
+- Institutional Home.
+- About Fundación Itaembé.
+- Yaguaretés Softbol Posadas.
+- Science, Technology & Innovation.
+- Contact Form.
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** React, JavaScript, Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM, HashLink
+- **SEO:** React Helmet Async, Schema.org
+- **Forms:** Web3Forms
+- **Hosting:** Hostinger
+
+## 🔧 Technical Implementation
+
+- Developed a component-based frontend architecture.
+- Implemented dynamic page navigation and scroll behavior.
+- Configured SEO metadata, canonical URLs, and structured data.
+- Integrated external form handling without requiring a custom backend.
+- Configured institutional email communication.
+- Optimized images and static assets for improved loading performance.
+- Prepared the website structure for search engine indexing.
+
+## 🎯 Project Goals
+
+- Strengthen the foundation's digital presence.
+- Increase visibility for its community initiatives.
+- Communicate its mission and projects effectively.
+- Facilitate contact and collaboration opportunities.
+- Improve accessibility and usability across devices.
+
+## 👨‍💻 Development
+
+Designed and developed by **PBX Digital**.
+
+🌐 https://pbxdigital.com.ar/
